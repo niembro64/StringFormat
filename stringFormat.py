@@ -18,3 +18,6 @@ age = 27
 print("My name is %s and I'm %d" % (name, age))		# or with variables
 # print("My name is %s and I'm %d" % (age, name))		# or with variables
 # output: My name is Zen and I'm 27
+
+x = "hello world"
+print(x.title())
